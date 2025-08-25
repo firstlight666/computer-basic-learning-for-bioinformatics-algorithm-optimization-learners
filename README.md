@@ -8,3 +8,5 @@ The courses I am studying：
 2、Linux fundamentals
 The courses I am studying：
 https://www.bilibili.com/video/BV13U4y1p7kB/?spm_id_from=333.788.player.switch&vd_source=e6289ac52a80ce13abb5f1e360d88d73&p=6
+3、Base usage of Git
+
